@@ -24,3 +24,5 @@ The model achieved high performance on the test set, effectively distinguishing 
 | **F1-Score** | 94% |
 
 **Confusion Matrix:**
+
+<img width="581" height="445" alt="image" src="https://github.com/user-attachments/assets/7aec5a14-9838-4b2d-b722-dfeb2727e3c2" />
